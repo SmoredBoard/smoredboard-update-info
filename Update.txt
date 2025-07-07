@@ -1,0 +1,15 @@
+Version=1.0.3.1
+URL=https://f005.backblazeb2.com/file/SmoredBoard-Updates/SmoredBoard+Installer+V1.0.3.1.exe
+Changes=
+- Reorganization is now FREE! (learn more at https://www.smoredboard.com/news/free-reorganization)
+- Fixed issue causing the SmoredBoard to not sign you in automatically
+- Fixed issue causing the ugly white bar to appear on the top
+- Fixed issue causing black dotted lines to appear around items
+- Fixed Windows Default Device not saving
+- Fixed Global Keybind Profiles not loading
+- Fixed Effect Labels in Effects Lab not being centered with slider
+- Fixed Settings not saving if you restart or shut down your pc without closing the SmoredBoard first
+- Fixed Sound Button window not going all the way down to the bottom bar
+- (maybe) fixed issue causing SmoredBoard to not load and get stuck on the splash screen
+- Fixed lots of crashes (10-20 give or take)
+- Added an loading indicator for signing in
