@@ -13,3 +13,4 @@ Changes=
 - (maybe) fixed issue causing SmoredBoard to not load and get stuck on the splash screen
 - Fixed lots of crashes (10-20 give or take)
 - Added an loading indicator for signing in
+- test change
