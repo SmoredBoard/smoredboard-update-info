@@ -1,4 +1,4 @@
-Version=1.0.3.2
+Version=1.0.3.1
 URL=https://f005.backblazeb2.com/file/SmoredBoard-Updates/SmoredBoard+Installer+test+4.exe
 Changes=
 - Reorganization is now FREE! (learn more at https://www.smoredboard.com/news/free-reorganization)
