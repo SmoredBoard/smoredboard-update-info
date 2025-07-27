@@ -1,4 +1,4 @@
-Version=1.0.3.2
+Version=1.0.3.3
 URL=https://get.smoredboard.com/update
 Changes=
 - Reorganization is now FREE! (learn more at https://www.smoredboard.com/news/free-reorganization)
