@@ -1,5 +1,5 @@
-Version=1.0.3.1
-URL=https://f005.backblazeb2.com/file/SmoredBoard-Updates/SmoredBoard+Installer+test+4.exe
+Version=1.0.3.2
+URL=https://get.smoredboard.com/update
 Changes=
 - Reorganization is now FREE! (learn more at https://www.smoredboard.com/news/free-reorganization)
 - Fixed issue causing the SmoredBoard to not sign you in automatically
