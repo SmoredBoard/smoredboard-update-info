@@ -12,7 +12,7 @@ Changes=
 - Updated the updater so it will now automatically run when opening the SmoredBoard, and if an update is available automatically install and restart the app.
 - Increased keybinds tolerance, making it easy to press multiple keys at once
 - Fixed issue causing sounds to start cut off
-- Add duplicating sounds in the current profile, and duplicating sounds from locked profiles into unlocked profiles (MAKE SURE THIS IS TRUE)
+- Add duplicating sounds in the current profile, and duplicating sounds from locked profiles into unlocked profiles
 - Fixed issue causing images to not get assigned properly on import/export
 - Made the box used for sorting your profile look better (Pro only)
 - Updated crash screen allowing you to see the log you can submit and overall make the page look better
