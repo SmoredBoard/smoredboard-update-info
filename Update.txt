@@ -15,7 +15,7 @@ Changes=
 - Add duplicating sounds in the current profile, and duplicating sounds from locked profiles into unlocked profiles
 - Fixed issue causing images to not get assigned properly on import/export
 - Made the box used for sorting your profile look better (Pro only)
-- Updated crash screen allowing you to see the log you can submit and overall make the page look better
+- Updated crash screen allowing you to see the error you can submit and overall make the page look better
 - Updated the Add Sounds page and the Duplicate Keybinds page to make them look nicer
 - Added new analytics so I can view how certain features are used and what Pro features users look at the most, plus other analytic data. All this data is completely anonymous and can not be traced back to anyone. (view updated Privacy Policy for more details)
 - Removed automatic sending of logs when errors occur, as well as sending logs when a crash occurs.
