@@ -1,16 +1,23 @@
 Version=1.0.3.1
 URL=https://get.smoredboard.com/update
 Changes=
-- Reorganization is now FREE! (learn more at https://www.smoredboard.com/news/free-reorganization)
-- Fixed issue causing the SmoredBoard to not sign you in automatically
-- Fixed issue causing the ugly white bar to appear on the top
-- Fixed issue causing black dotted lines to appear around items
-- Fixed Windows Default Device not saving
-- Fixed Global Keybind Profiles not loading
-- Fixed Effect Labels in Effects Lab not being centered with slider
-- Fixed Settings not saving if you restart or shut down your pc without closing the SmoredBoard first
-- Fixed Sound Button window not going all the way down to the bottom bar
-- (maybe) fixed issue causing SmoredBoard to not load and get stuck on the splash screen
-- Fixed lots of crashes (10-20 give or take)
-- Added an loading indicator for signing in
-- test
+- Added a Sound Editor so you can trim and add cuts to any sound
+- Added a Search option so you can search through your sounds
+- Added Quick Access Buttons so you can get to the Browser or Effects Lab easier
+- Added uBlock Origin to the Browser so you won’t get bombarded with ads anymore!
+- Updated Privacy Policy and Terms Of Use
+- Added a mic audio issue detector that will automatically increase mic latency if popping or other audio issues occur
+- Improved some effects performance, and fixed other audio issues when using sounds with effects
+- Made Reorganization PERMENATLY free even when offline
+- Updated the updater so it will now automatically run when opening the SmoredBoard, and if an update is available automatically install and restart the app.
+- Increased keybinds tolerance, making it easy to press multiple keys at once
+- Fixed issue causing sounds to start cut off
+- Add duplicating sounds in the current profile, and duplicating sounds from locked profiles into unlocked profiles (MAKE SURE THIS IS TRUE)
+- Fixed issue causing images to not get assigned properly on import/export
+- Made the box used for sorting your profile look better (Pro only)
+- Updated crash screen allowing you to see the log you can submit and overall make the page look better
+- Updated the Add Sounds page and the Duplicate Keybinds page to make them look nicer
+- Added new analytics so I can view how certain features are used and what Pro features users look at the most, plus other analytic data. All this data is completely anonymous and can not be traced back to anyone. (view updated Privacy Policy for more details)
+- Removed automatic sending of logs when errors occur, as well as sending logs when a crash occurs.
+- Fixed other various bugs/issues
+- Fixed some crashes
