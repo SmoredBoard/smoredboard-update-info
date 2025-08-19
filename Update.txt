@@ -4,7 +4,7 @@ Changes=
 - Added a Sound Editor so you can trim and add cuts to any sound
 - Added a Search option so you can search through your sounds
 - Added Quick Access Buttons so you can get to the Browser or Effects Lab easier
-- Added uBlock Origin to the Browser so you won’t get bombarded with ads anymore!
+- Added uBlock Origin to the Browser so you wont get bombarded with ads anymore!
 - Updated Privacy Policy and Terms Of Use
 - Added a mic audio issue detector that will automatically increase mic latency if popping or other audio issues occur
 - Improved some effects performance, and fixed other audio issues when using sounds with effects
