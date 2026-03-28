@@ -1,24 +1,33 @@
-Version=1.0.3.5
+Version=1.0.4.0
 URL=https://get.smoredboard.com/update
 Required=true
 Changes=
-- Added a Sound Editor so you can trim and add cuts to any sound
-- Added a Search option so you can search through your sounds
-- Added Quick Access Buttons so you can get to the Browser or Effects Lab easier
-- Added uBlock Origin to the Browser so you wont get bombarded with ads anymore!
-- Updated Privacy Policy and Terms Of Use
-- Added a mic audio issue detector that will automatically increase mic latency if popping or other audio issues occur
-- Improved some effects performance, and fixed other audio issues when using sounds with effects
-- Made Reorganization PERMENATLY free even when offline
-- Updated the updater so it will now automatically run when opening the SmoredBoard, and if an update is available automatically install and restart the app.
-- Increased keybinds tolerance, making it easy to press multiple keys at once
-- Fixed issue causing sounds to start cut off
-- Add duplicating sounds in the current profile, and duplicating sounds from locked profiles into unlocked profiles
-- Fixed issue causing images to not get assigned properly on import/export
-- Made the box used for sorting your profile look better (Pro only)
-- Updated crash screen allowing you to see the error you can submit and overall make the page look better
-- Updated the Add Sounds page and the Duplicate Keybinds page to make them look nicer
-- Added new analytics so I can view how certain features are used and what Pro features users look at the most, plus other analytic data. All this data is completely anonymous and can not be traced back to anyone. (view updated Privacy Policy for more details)
-- Removed automatic sending of logs when errors occur, as well as sending logs when a crash occurs.
-- Fixed other various bugs/issues
-- Fixed some crashes
+- Added Voice Changers!
+- Added 70+ effects, 50 of which can be used on sounds and 72 for mic.
+- Added an Export Sound feature so you can export sounds with any effects and edits
+- Added default images to sound buttons, and soundboard profiles
+- Added an Image Selector page so you can more easily manage images for all different items
+- Added auto device switching when audio devices connect/disconnect
+- Added custom button sizing and sound duration text so sound button
+- Added fade out stop all sounds (right click stop all sounds button to configure)
+- Added support for all new Stream Deck buttons, playing animations, and more!
+- Added ability to force mic to be mono and adjust sample rate
+- Added per mic settings
+- Added ability to import .smored files into existing profiles
+- Added push to talk, toggle to talk, and cough button keybinds.
+- Added a profile recovery tool
+- Added support for more image types in the Integrated Browser
+- Overhauled context menu across the app giving it a lot more features (right-click menu)
+- Added YT Music Desktop integration.
+- Drag and drop of sounds now works in admin
+- add ability to scroll through profile buttons via your mouse
+- Fixed issue causing SmoredBoard to refuse to load when settings were corrupt
+- Improved/Unified UI a lot
+- Improved Sound Editor usability and stability
+- Improved Pro Walkthrough And Setup Helper
+- Improved SoundSnap
+- Improved Amplify (can now change amplification of sound while it’s playing)
+- Significantly improved Voicy Profile Builder
+- Now runs as 64-bit
+- Fixed mono sounds playing at 2x speed
+- TONS of crash fixes / various bugs
