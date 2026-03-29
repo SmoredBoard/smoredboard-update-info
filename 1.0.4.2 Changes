@@ -3,4 +3,5 @@
 - Fixed Volume slider not working on legacy audio engine
 - Fixed Setting any device volume slider to 0 to still play audio unmuted
 - Fixed legacy audio engine sometimes not using correct devices
+- Fixed Noise Gate not working
 - Fixed Some Crashes
