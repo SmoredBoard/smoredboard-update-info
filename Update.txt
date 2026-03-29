@@ -32,3 +32,5 @@ Changes=
 - Now runs as 64-bit
 - Fixed mono sounds playing at 2x speed
 - TONS of crash fixes / various bugs
+
+1.0.4.0=https://raw.githubusercontent.com/SmoredBoard/smoredboard-update-info/refs/heads/main/1.0.4.0%20Changes
