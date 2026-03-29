@@ -1,0 +1,29 @@
+- Added Voice Changers!
+- Added 70+ effects, 50 of which can be used on sounds and 72 for mic.
+- Added an Export Sound feature so you can export sounds with any effects and edits
+- Added default images to sound buttons, and soundboard profiles
+- Added an Image Selector page so you can more easily manage images for all different items
+- Added auto device switching when audio devices connect/disconnect
+- Added custom button sizing and sound duration text so sound button
+- Added fade out stop all sounds (right click stop all sounds button to configure)
+- Added support for all new Stream Deck buttons, playing animations, and more!
+- Added ability to force mic to be mono and adjust sample rate
+- Added per mic settings
+- Added ability to import .smored files into existing profiles
+- Added push to talk, toggle to talk, and cough button keybinds.
+- Added a profile recovery tool
+- Added support for more image types in the Integrated Browser
+- Overhauled context menu across the app giving it a lot more features (right-click menu)
+- Added YT Music Desktop integration.
+- Drag and drop of sounds now works in admin
+- add ability to scroll through profile buttons via your mouse
+- Fixed issue causing SmoredBoard to refuse to load when settings were corrupt
+- Improved/Unified UI a lot
+- Improved Sound Editor usability and stability
+- Improved Pro Walkthrough And Setup Helper
+- Improved SoundSnap
+- Improved Amplify (can now change amplification of sound while it’s playing)
+- Significantly improved Voicy Profile Builder
+- Now runs as 64-bit
+- Fixed mono sounds playing at 2x speed
+- TONS of crash fixes / various bugs
