@@ -35,3 +35,4 @@ Changes=
 
 1.0.4.0=https://raw.githubusercontent.com/SmoredBoard/smoredboard-update-info/refs/heads/main/1.0.4.0%20Changes
 1.0.4.1=https://raw.githubusercontent.com/SmoredBoard/smoredboard-update-info/refs/heads/main/1.0.4.1%20Changes
+1.0.4.2=https://raw.githubusercontent.com/SmoredBoard/smoredboard-update-info/refs/heads/main/1.0.4.2%20Changes
