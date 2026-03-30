@@ -1,8 +1,7 @@
-Version=1.0.4.1
+Version=1.0.4.2
 URL=https://get.smoredboard.com/update
 Required=true
 Changes=
-- 1.0.4.1 is a quick hotfix! All changes below are from 1.0.4.0
 - Added Voice Changers!
 - Added 70+ effects, 50 of which can be used on sounds and 72 for mic.
 - Added an Export Sound feature so you can export sounds with any effects and edits
