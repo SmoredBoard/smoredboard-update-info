@@ -1,0 +1,15 @@
+- Added a YouTube/Twitch Chat controller to the SmoredBoard
+- Added Automations to the SmoredBoard (Pro only)
+- Added a Add Sounds From Other Profiles page
+- Added Volume Profiles
+- Added ability to customize bottom left bar of the SmoredBoard (hide Get Pro button, hear self, etc)
+- Can now select multiple sounds and reorganize them all at once
+- Added 3 built in sounds that are automatically added when your first profile is created!
+- Added more WebSocket endpoints and documented the WebSocket API at https://smoredboard.com/docs/websocket-api
+- Updated installer to install to C:\Program Files, fixing issues for non admin users. (still needs admin to install, but in theory you won’t need admin to launch app) (to apply these changes you’ll need to uninstall and reinstall the SmoredBoard so it’s location moves)
+- Updated installer to log default input and output device BEFORE installing cable devices, so the SmoredBoard can default to using those
+- Fixed the SmoredBoard’s Windows Default Output device revert logic, to actually revert all 3 ERoles fixing a bug where users wouldn’t hear any audio after instillation.
+- Moved where we save some logs and other files
+- Fixed some major device bugs causing audio to not go over CABLE Input even if virtual mic was set to it!
+- Removed old Audio Helper and replaces with one on the website that does the same stuff and more.
+- Fixed more crashes!
