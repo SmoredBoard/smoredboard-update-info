@@ -1,37 +1,24 @@
-Version=1.0.4.2
+Version=1.0.4.5
 URL=https://get.smoredboard.com/update
 Required=true
 Changes=
-- Added Voice Changers!
-- Added 70+ effects, 50 of which can be used on sounds and 72 for mic.
-- Added an Export Sound feature so you can export sounds with any effects and edits
-- Added default images to sound buttons, and soundboard profiles
-- Added an Image Selector page so you can more easily manage images for all different items
-- Added auto device switching when audio devices connect/disconnect
-- Added custom button sizing and sound duration text so sound button
-- Added fade out stop all sounds (right click stop all sounds button to configure)
-- Added support for all new Stream Deck buttons, playing animations, and more!
-- Added ability to force mic to be mono and adjust sample rate
-- Added per mic settings
-- Added ability to import .smored files into existing profiles
-- Added push to talk, toggle to talk, and cough button keybinds.
-- Added a profile recovery tool
-- Added support for more image types in the Integrated Browser
-- Overhauled context menu across the app giving it a lot more features (right-click menu)
-- Added YT Music Desktop integration.
-- Drag and drop of sounds now works in admin
-- add ability to scroll through profile buttons via your mouse
-- Fixed issue causing SmoredBoard to refuse to load when settings were corrupt
-- Improved/Unified UI a lot
-- Improved Sound Editor usability and stability
-- Improved Pro Walkthrough And Setup Helper
-- Improved SoundSnap
-- Improved Amplify (can now change amplification of sound while it’s playing)
-- Significantly improved Voicy Profile Builder
-- Now runs as 64-bit
-- Fixed mono sounds playing at 2x speed
-- TONS of crash fixes / various bugs
+- Added a YouTube/Twitch Chat controller to the SmoredBoard
+- Added Automations to the SmoredBoard (Pro only)
+- Added a Add Sounds From Other Profiles page
+- Added Volume Profiles
+- Added ability to customize bottom left bar of the SmoredBoard (hide Get Pro button, hear self, etc)
+- Can now select multiple sounds and reorganize them all at once
+- Added 3 built in sounds that are automatically added when your first profile is created!
+- Added more WebSocket endpoints and documented the WebSocket API at https://smoredboard.com/docs/websocket-api
+- Updated installer to install to C:\Program Files, fixing issues for non admin users. (still needs admin to install, but in theory you won’t need admin to launch app) (to apply these changes you’ll need to uninstall and reinstall the SmoredBoard so it’s location moves)
+- Updated installer to log default input and output device BEFORE installing cable devices, so the SmoredBoard can default to using those
+- Fixed the SmoredBoard’s Windows Default Output device revert logic, to actually revert all 3 ERoles fixing a bug where users wouldn’t hear any audio after instillation.
+- Moved where we save some logs and other files
+- Fixed some major device bugs causing audio to not go over CABLE Input even if virtual mic was set to it!
+- Removed old Audio Helper and replaces with one on the website that does the same stuff and more.
+- Fixed more crashes!
 
 1.0.4.0=https://raw.githubusercontent.com/SmoredBoard/smoredboard-update-info/refs/heads/main/1.0.4.0%20Changes
 1.0.4.1=https://raw.githubusercontent.com/SmoredBoard/smoredboard-update-info/refs/heads/main/1.0.4.1%20Changes
 1.0.4.2=https://raw.githubusercontent.com/SmoredBoard/smoredboard-update-info/refs/heads/main/1.0.4.2%20Changes
+1.0.4.5=https://raw.githubusercontent.com/SmoredBoard/smoredboard-update-info/refs/heads/main/1.0.4.5%20Changes
