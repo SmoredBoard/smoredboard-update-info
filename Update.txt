@@ -1,6 +1,6 @@
 Version=1.0.4.5
 URL=https://get.smoredboard.com/update
-Required=true
+Required=false
 Changes=
 - Added a YouTube/Twitch Chat controller to the SmoredBoard
 - Added Automations to the SmoredBoard (Pro only)
