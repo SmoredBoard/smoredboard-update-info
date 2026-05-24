@@ -3,3 +3,4 @@
 - When playing a sound if no devices were found it will tell you instead of pretending to play
 - Improved Audio Output Profiles Saving to prevent corruption.
 - Added audio diagnostic dumper to help our support when helping those with audio issues
+- Fixed some crashes!
