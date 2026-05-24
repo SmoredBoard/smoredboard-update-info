@@ -1,10 +1,12 @@
-Version=1.0.4.6
+Version=1.0.4.7
 URL=https://get.smoredboard.com/update
 Required=true
 Changes=
-- Added ability to right-click sounds on Voicy’s Website and add them directly to the current profile
-- Added a ghost preview when dragging a valid audio file or mp4 over the SmoredBoard
-- Hopefully fixed issue causing sounds to not play sometimes
+- Improved audio device selection for playing sounds after startup
+- Improved handling of empty audio devices
+- When playing a sound if no devices were found it will tell you instead of pretending to play
+- Improved Audio Output Profiles Saving to prevent corruption.
+- Added audio diagnostic dumper to help our support when helping those with audio issues
 - Fixed some crashes!
 
 1.0.4.0=https://raw.githubusercontent.com/SmoredBoard/smoredboard-update-info/refs/heads/main/1.0.4.0%20Changes
@@ -12,3 +14,4 @@ Changes=
 1.0.4.2=https://raw.githubusercontent.com/SmoredBoard/smoredboard-update-info/refs/heads/main/1.0.4.2%20Changes
 1.0.4.5=https://raw.githubusercontent.com/SmoredBoard/smoredboard-update-info/refs/heads/main/1.0.4.5%20Changes
 1.0.4.6=https://raw.githubusercontent.com/SmoredBoard/smoredboard-update-info/refs/heads/main/1.0.4.6%20Changes
+1.0.4.7=https://raw.githubusercontent.com/SmoredBoard/smoredboard-update-info/refs/heads/main/1.0.4.7%20Changes
