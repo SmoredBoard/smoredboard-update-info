@@ -1,4 +1,4 @@
-Version=1.0.4.9
+Version=1.0.4.7
 URL=https://get.smoredboard.com/update
 Required=true
 
