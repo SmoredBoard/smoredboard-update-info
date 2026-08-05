@@ -1,5 +1,5 @@
 Version=1.0.4.7
-URL=https://get.smoredboard.com/update
+URL=https://get.smoredboard.com/beta-update
 Required=true
 
 1.0.4.0=https://raw.githubusercontent.com/SmoredBoard/smoredboard-update-info/refs/heads/main/1.0.4.0%20Changes
