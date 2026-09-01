@@ -1,4 +1,4 @@
-Version=1.0.4.7
+Version=1.0.4.8
 URL=https://get.smoredboard.com/beta-update
 Required=true
 
