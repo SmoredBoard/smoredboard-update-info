@@ -8,3 +8,4 @@ Required=true
 1.0.4.5=https://raw.githubusercontent.com/SmoredBoard/smoredboard-update-info/refs/heads/main/1.0.4.5%20Changes
 1.0.4.6=https://raw.githubusercontent.com/SmoredBoard/smoredboard-update-info/refs/heads/main/1.0.4.6%20Changes
 1.0.4.7=https://raw.githubusercontent.com/SmoredBoard/smoredboard-update-info/refs/heads/main/1.0.4.7%20Changes
+1.0.5.0=https://raw.githubusercontent.com/SmoredBoard/smoredboard-update-info/refs/heads/main/1.0.5.0%20Changes
