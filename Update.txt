@@ -1,13 +1,19 @@
-Version=1.0.4.7
+Version=1.0.5.0
 URL=https://get.smoredboard.com/update
 Required=true
 Changes=
-- Improved audio device selection for playing sounds after startup
-- Improved handling of empty audio devices
-- When playing a sound if no devices were found it will tell you instead of pretending to play
-- Improved Audio Output Profiles Saving to prevent corruption.
-- Added audio diagnostic dumper to help our support when helping those with audio issues
-- Fixed some crashes!
+- Added the SmoredBoard APO Driver BETA, allowing you to play sounds ON your mic, no virtual mic needed, with significantly lower latency! (off by default, still testing this to make sure it works well)
+- Fixed error where soundsnap would record a multichannel file, then the SmoredBoard would be unable to play it
+- Fixed mp4 to mp3 conversion for mp4s with more than 2 channels
+- Added a BETA update option so you can try out updates and new features faster
+- Improved fade out/in effect to not cause audio clicking issues and such
+- Added option for SmoredBoard to run minimized on startup
+- Added way to move Profiles Directory to another location, copying all sounds and profiles
+- SmoredBoard now stays on top of task bar always
+- Fixed 403 error on downloading sounds from Myinstants
+- Improved Sound Editor, to make it easier to use and more intuitive
+- Significantly Reduced RAM usage (around 50% on average)
+- Fixed some bugs
 
 1.0.4.0=https://raw.githubusercontent.com/SmoredBoard/smoredboard-update-info/refs/heads/main/1.0.4.0%20Changes
 1.0.4.1=https://raw.githubusercontent.com/SmoredBoard/smoredboard-update-info/refs/heads/main/1.0.4.1%20Changes
@@ -15,3 +21,4 @@ Changes=
 1.0.4.5=https://raw.githubusercontent.com/SmoredBoard/smoredboard-update-info/refs/heads/main/1.0.4.5%20Changes
 1.0.4.6=https://raw.githubusercontent.com/SmoredBoard/smoredboard-update-info/refs/heads/main/1.0.4.6%20Changes
 1.0.4.7=https://raw.githubusercontent.com/SmoredBoard/smoredboard-update-info/refs/heads/main/1.0.4.7%20Changes
+1.0.5.0=https://raw.githubusercontent.com/SmoredBoard/smoredboard-update-info/refs/heads/main/1.0.5.0%20Changes
