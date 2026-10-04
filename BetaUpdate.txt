@@ -1,4 +1,4 @@
-Version=1.0.5.1
+Version=1.0.5.2
 URL=https://get.smoredboard.com/beta-update
 Required=true
 
@@ -10,3 +10,4 @@ Required=true
 1.0.4.7=https://raw.githubusercontent.com/SmoredBoard/smoredboard-update-info/refs/heads/main/1.0.4.7%20Changes
 1.0.5.0=https://raw.githubusercontent.com/SmoredBoard/smoredboard-update-info/refs/heads/main/1.0.5.0%20Changes
 1.0.5.1=https://raw.githubusercontent.com/SmoredBoard/smoredboard-update-info/refs/heads/main/1.0.5.1%20Changes
+1.0.5.2=https://raw.githubusercontent.com/SmoredBoard/smoredboard-update-info/refs/heads/main/1.0.5.2%20Changes
