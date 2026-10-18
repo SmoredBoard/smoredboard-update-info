@@ -1,2 +1,3 @@
 - Fixed issue with not being able to set keybind to a sound, after using the Right-Click set keybind option
 - Updated Audio Diagnostics Logger to include more info on capture device effects
+- SmoredBoard will now detect if your mic in in wrong “Enhancements” mode, which would cause the SmoredBoard APO Driver to be unable to load. Additionally Reattaching the driver will automatically fix this now.
