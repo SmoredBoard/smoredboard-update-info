@@ -1,0 +1,2 @@
+- Fixed issue with not being able to set keybind to a sound, after using the Right-Click set keybind option
+- Updated Audio Diagnostics Logger to include more info on capture device effects
