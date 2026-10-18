@@ -11,3 +11,4 @@ Required=true
 1.0.5.0=https://raw.githubusercontent.com/SmoredBoard/smoredboard-update-info/refs/heads/main/1.0.5.0%20Changes
 1.0.5.1=https://raw.githubusercontent.com/SmoredBoard/smoredboard-update-info/refs/heads/main/1.0.5.1%20Changes
 1.0.5.2=https://raw.githubusercontent.com/SmoredBoard/smoredboard-update-info/refs/heads/main/1.0.5.2%20Changes
+1.0.5.3=https://raw.githubusercontent.com/SmoredBoard/smoredboard-update-info/refs/heads/main/1.0.5.3%20Changes
