@@ -1,0 +1,3 @@
+- Overhauled entire SmoredBoard Ui
+- Added a 'Add to SmoredBoard' feature, allowing you to download audio from any website in 1 click. (Only download sounds you have permission to download, respect each sites terms. read https://www.smoredboard.com/terms-of-use for full terms of this new feature)
+- Fixed some crashes and small bugs
